@@ -386,7 +386,7 @@ footer {
     .searchdomain-container input[type="text"] {
         width: 100%;
     }
-}
+
 .contact-container {
     padding: 2rem 3rem;
 }
@@ -395,4 +395,5 @@ footer {
 .contact-container textarea {
     width: 100%;
     margin: 10px 0;
+}
 }
